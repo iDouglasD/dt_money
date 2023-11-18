@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "Aluguel",
+      "price": 500,
+      "category": "Casa",
+      "type": "outcome",
+      "createdAt": "2023-11-18T11:32:25.772Z",
+      "id": 3
+    },
+    {
+      "description": "Festa",
+      "price": 100,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-11-18T11:46:02.104Z",
+      "id": 4
     }
   ]
 }
